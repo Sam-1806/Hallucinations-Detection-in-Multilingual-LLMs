@@ -1,0 +1,16 @@
+Model,Language,Hallucination_Percentage_Vanilla,Normalized_Hallucination_Percentage_Vanilla,Hallucination_Percentage_Selfrag,Normalized_Hallucination_Percentage_Selfrag
+aya,hi,57.9,42.0,24.5,24.5
+aya,ka,66.0,34.0,14.5,15.5
+aya,ma,59.5,40.5,26.5,26.0
+aya,ta,56.0,44.0,17.0,17.5
+sarvam,hi,62.5,37.5,15.0,15.5
+sarvam,ka,62.5,37.5,22.5,21.0
+sarvam,ma,63.0,37.0,18.5,18.5
+sarvam,ta,60.0,40.0,18.0,16.5
+gemma,hi,61.0,39.5,16.0,16.0
+gemma,ka,66.0,34.5,19.5,19.0
+gemma,ma,63.0,38.5,15.0,15.5
+gemma,ta,67.5,30.0,16.5,17.0
+aya,en,60.0,40.0,14,13.5
+sarvam,en,63.0,37.0,14.5,13
+gemma,en,72.5,28.5,13,11

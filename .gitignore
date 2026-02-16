@@ -1,0 +1,7 @@
+Dataset/
+Project/Dataset/
+__pycache__/
+*.pyc
+.env
+.venv/
+*.db
